@@ -1,0 +1,267 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOBx",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"null",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"c4f1d6029c733547",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"null",
+      "open_ads_max":"null",
+      "on_off_native_listview":"0",
+      "interval_intertitial": 5,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":"3"
+    }
+  ],
+  "More":
+  [
+    		{
+			"id": 1,
+			"title": "Wallpaper Aesthetic Cool",
+			"image": "https://play-lh.googleusercontent.com/0vy-dKP22kEam_9yOnAWpCiDqHug5PhNx5A6y04muBlw0Svy6OuHZTq1XDho8S1rtqTd=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.wallpaperaesthetic"
+		},
+		{
+			"id": 2,
+			"title": "Wallpaper 4K HD Wallpapers",
+			"image": "https://play-lh.googleusercontent.com/-dVTrS8scTittKLTqffmgQ65t2y4EP-lMRdcYEc2XlG_upCuNunFt6SCacfQz1c0tA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.hdwallpaper4k"
+		},
+		{
+			"id": 3,
+			"title": "Sakura Anime Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/W87QPqBURJQgR7fpzZJZJCsMntXQJqfqMDPCUr44BPELexCB3XoFh3LeAAE8miy3Dg=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.sakura_anime.wallpaper"
+		},
+	       {
+			"id": 4,
+			"title": "Navy Seal Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/7THc2UBA13B-NMpiS06uTNbWAoSvdLyMVnrJiwPGGYIwDYSKOwhPESlv1pKJXIXNNA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.usnavyseal"
+		}
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "speed_boat_racing_wallpaper",
+      "image": "https://i.pinimg.com/736x/12/df/25/12df255a497fa13102d2ba39a332d34f--power-boats-speed-boats.jpg"
+
+    }
+               ],
+
+  "Data":
+ [
+    
+    {
+        "id": "1",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/dc/08/3e/dc083efcf615eeb4f7aa23689e205a3a--race-racing-wallpaper-backgrounds.jpg"
+    },
+    {
+        "id": "2",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/17/78/c4/1778c4df45cd566244386a33eb936850--fast-boats-speed-boats.jpg"
+    },
+    {
+        "id": "3",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/12/df/25/12df255a497fa13102d2ba39a332d34f--power-boats-speed-boats.jpg"
+    },
+    
+    {
+        "id": "4",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/20/a0/50/20a050e2908e4e35c6df02a66c7671cb.jpg"
+    },
+    {
+        "id": "5",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/92/08/82/9208821d48b1a1891e00c4062d1b7bb1.jpg"
+    },
+    
+    {
+        "id": "6",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/4a/d5/4e/4ad54e542d7554caf1d98980961c08f4.jpg"
+    },
+  
+ 
+    {
+        "id": "7",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/02/02/30/02023023ff4da8c2e8561813d61c3fc2--mercury-marine-bass-boat.jpg"
+    },
+    {
+        "id": "8",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/02/49/0b/02490bf148e80901b113611ad6381fa7--boats-history.jpg"
+    },
+    {
+        "id": "9",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/d8/d7/9a/d8d79ac840f07300d7e4ff9f985fd357--speed-boats-fast-boats.jpg"
+    },
+    {
+        "id": "10",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/df/12/18/df12187d333d1bbe6ecba43b4a55cab1.jpg"
+    },
+   
+  
+    {
+        "id": "11",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/b4/51/cb/b451cb0784fc433ceb47c6e0554182c9.jpg"
+    },
+    
+ 
+    {
+        "id": "12",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/8b/c0/f9/8bc0f984969005d3e907309469b87950.jpg"
+    },
+    
+    
+  
+    {
+        "id": "14",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/75/19/77/751977c732d0199c233e83e6d0d8d7e5--speed-boats-fast-boats.jpg"
+    },
+    {
+        "id": "15",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/48/f6/d0/48f6d088cfd92267e5446c2c52c5deef.jpg"
+    },
+    {
+        "id": "16",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/df/7d/e6/df7de651017a808c2f4539bc03ec101a--jet-boat-water-crafts.jpg"
+    },
+    {
+        "id": "17",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/c8/82/56/c882569014aeb173294747223215bcdf--sport-boats-power-boat.jpg"
+    },
+   
+  
+   
+    {
+        "id": "23",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/f1/48/d4/f148d4c1231fc4026c5df6985d03b248.jpg"
+    },
+
+  
+    {
+        "id": "24",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/bf/ec/48/bfec48f524fbf4bf00d1811461dc97ff--boats.jpg"
+    },
+    {
+        "id": "25",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/4d/c9/9b/4dc99b6b3da0235941458826bd593a64.jpg"
+    },
+
+    {
+        "id": "26",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/21/89/50/218950701d499b53afe44d6b3ee55ed8--fast-boats-speed-boats.jpg"
+    },
+   
+    {
+        "id": "27",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/58/1c/02/581c02b3096f229b5a115168e8f5ceca--speed-boats-racing.jpg"
+    },
+    {
+        "id": "28",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/31/78/61/317861794db2da39480c14af73c6679c.jpg"
+    },
+   
+    {
+        "id": "29",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/01/26/a9/0126a9d29b4cdaa2ca156468a96e3e9c--speed-boats-cocoa-beach.jpg"
+    },
+  
+    {
+        "id": "30",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/80/9e/c2/809ec2f4d7d737770e043811672e407a--racing-boats.jpg"
+    },
+    {
+        "id": "31",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/e7/56/c3/e756c3fd03937c55de7970858fd0bb7d--alternative-fuel-speed-boats.jpg"
+    },
+    {
+        "id": "32",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/33/e1/70/33e1706e26a552612b4d3afebfc55070--monsters-rocks.jpg"
+    },
+    {
+        "id": "33",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/ed/d3/03/edd30309c274d4fb4b1c1b5b4d222fce.jpg"
+    },
+    {
+        "id": "34",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/ba/90/b4/ba90b47bd28f718b123595c6025ceb06.jpg"
+    },
+
+    {
+        "id": "35",
+        "name_category": "speed_boat_racing_wallpaper",
+        "title": "speed boat racing wallpaper",
+        "image": "https://i.pinimg.com/736x/49/f7/5c/49f75cdb96871f60e57679445161c42e--speed-boats-power-boats.jpg"
+    }
+]
+}
